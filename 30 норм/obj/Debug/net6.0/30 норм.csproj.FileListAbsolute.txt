@@ -1,0 +1,15 @@
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\bin\Debug\net6.0\30 норм.exe
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\bin\Debug\net6.0\30 норм.deps.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\bin\Debug\net6.0\30 норм.runtimeconfig.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\bin\Debug\net6.0\30 норм.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\bin\Debug\net6.0\30 норм.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\30 норм.csproj.AssemblyReference.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\30 норм.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\30 норм.AssemblyInfoInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\30 норм.AssemblyInfo.cs
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\30 норм.csproj.CoreCompileInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\30 норм.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\refint\30 норм.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\30 норм.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\30 норм.genruntimeconfig.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\30 норм\obj\Debug\net6.0\ref\30 норм.dll
