@@ -6,7 +6,11 @@
 int CountNumber(int a)
 {
     int count = 0;
-    while(a>0)
+    if(a==0)
+    {
+        return 1;
+    }
+    while(a > 0 || a < 0)
     {
         count ++;
         a = a / 10;
