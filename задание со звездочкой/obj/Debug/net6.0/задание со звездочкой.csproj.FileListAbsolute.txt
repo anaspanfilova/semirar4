@@ -1,0 +1,15 @@
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\bin\Debug\net6.0\задание со звездочкой.exe
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\bin\Debug\net6.0\задание со звездочкой.deps.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\bin\Debug\net6.0\задание со звездочкой.runtimeconfig.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\bin\Debug\net6.0\задание со звездочкой.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\bin\Debug\net6.0\задание со звездочкой.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\задание со звездочкой.csproj.AssemblyReference.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\задание со звездочкой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\задание со звездочкой.AssemblyInfoInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\задание со звездочкой.AssemblyInfo.cs
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\задание со звездочкой.csproj.CoreCompileInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\задание со звездочкой.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\refint\задание со звездочкой.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\задание со звездочкой.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\задание со звездочкой.genruntimeconfig.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\4 СЕМИНАР\задание со звездочкой\obj\Debug\net6.0\ref\задание со звездочкой.dll
