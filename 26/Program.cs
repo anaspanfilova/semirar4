@@ -10,7 +10,7 @@ int CountNumber(int a)
     {
         return 1;
     }
-    while(a > 0 || a < 0)
+    while(a != 0)
     {
         count ++;
         a = a / 10;
